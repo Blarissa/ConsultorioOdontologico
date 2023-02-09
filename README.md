@@ -1,4 +1,4 @@
-# ConsultorioOdontologico
+# Consultório Odontológico
 ## Desafio 1 - Administração da Agenda de um Consultório Odontológico
 
 ### Instruções
