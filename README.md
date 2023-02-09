@@ -88,4 +88,5 @@ hora inicial.
 ### Regras
 - Todas as datas e horas fornecidas pelo usuário devem ser válidas. Caso não sejam, deve
 ser apresentada uma mensagem de erro e o dado deve ser solicitado novamente.
-- Nas listagens, os dados devem estar f
+- Nas listagens, os dados devem estar formatados e alinhados conforme os layouts
+definidos no final deste documento.
